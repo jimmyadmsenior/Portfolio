@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Portfolio Banner](https://img.shields.io/badge/Portfolio-2024-blue?style=for-the-badge&logo=react&logoColor=white)
+![Portfolio Banner](https://img.shields.io/badge/Portfolio-2025-blue?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-14.1.4-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
