@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Olá! Eu sou Jimmy Alessandro de Castilho, Desenvolvedor Full Stack e Entusiasta em Cibersegurança.
+            Olá! Eu sou o Jimmy, Desenvolvedor Full Stack e Entusiasta em Cibersegurança.
           </p>
 
           <a href="#about">
