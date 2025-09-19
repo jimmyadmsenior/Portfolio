@@ -296,51 +296,6 @@ O projeto foi desenvolvido seguindo a metodologia **Mobile First** com breakpoin
 
 ---
 
-## 🚀 Deploy
-
-### 🌐 Vercel (Recomendado)
-
-1. **Deploy Automático**:
-   ```bash
-   npm run deploy
-   ```
-
-2. **Configuração de Domínio**:
-   - Conecte seu domínio personalizado
-   - Configure SSL automático
-   - Otimizações de performance automáticas
-
-### 🐳 Docker
-
-```dockerfile
-# Dockerfile
-FROM node:18-alpine AS base
-WORKDIR /app
-COPY package*.json ./
-RUN npm ci --only=production
-
-FROM base AS build
-COPY . .
-RUN npm run build
-
-FROM node:18-alpine AS runtime
-WORKDIR /app
-COPY --from=build /app/.next/standalone ./
-COPY --from=build /app/.next/static ./.next/static
-COPY --from=build /app/public ./public
-
-EXPOSE 3000
-CMD ["node", "server.js"]
-```
-
-### 🔧 Netlify
-
-1. Conecte o repositório
-2. Configure build command: `npm run build`
-3. Defina publish directory: `.next`
-
----
-
 ## 📈 Performance
 
 ### ⚡ Otimizações Implementadas
