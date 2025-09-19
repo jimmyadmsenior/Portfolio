@@ -28,7 +28,7 @@ export const gridItems = [
   },
   {
     id: 3,
-    title: "Minha stack tecnológica",
+    title: "Minhas tecnologias",
     description: "Sempre buscando evoluir",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
