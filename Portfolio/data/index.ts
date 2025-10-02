@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "SecureFileEncryptionTool",
     des: "Ferramenta de criptografia de arquivos segura com interface gráfica. Permite criptografar e descriptografar arquivos de maneira fácil e segura.",
-    img: "/p1.svg",
+    img: "/SecureFileEncryptionTool.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
     link: "https://github.com/jimmyadmsenior/SecureFileEncryptionTool",
   },
