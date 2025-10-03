@@ -24,7 +24,7 @@ const Footer = () => {
           Entre em contato comigo hoje e vamos discutir como posso ajudá-lo
           a alcançar seus objetivos.
         </p>
-        <a href="https://www.linkedin.com/in/jimmy-castilho-003733270/">
+  <a href="https://wa.me/5511941665545" target="_blank" rel="noopener noreferrer">
           <MagicButton
             title="Vamos conversar"
             icon={<FaLocationArrow />}
