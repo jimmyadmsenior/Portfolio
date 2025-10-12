@@ -60,9 +60,9 @@ const Hero = () => {
             Olá! Eu sou o Jimmy, Desenvolvedor Full Stack e Entusiasta em Cibersegurança.
           </p>
 
-          <a href="#about">
+          <a href="#projects">
             <MagicButton
-              title="Show my work"
+              title="Mostrar meu Trabalho"
               icon={<FaLocationArrow />}
               position="right"
             />

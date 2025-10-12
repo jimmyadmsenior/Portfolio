@@ -102,6 +102,22 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "https://github.com/jimmyadmsenior/MundoSENAI-Front",
   },
+  {
+    id: 5,
+    title: "Sistema de Monitoramento de Rede",
+    des: "Ferramenta de monitoramento e análise de tráfego de rede para detecção de anomalias e ameaças de segurança.",
+    img: "/p1.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "https://github.com/jimmyadmsenior",
+  },
+  {
+    id: 6,
+    title: "Dashboard de Análise de Vulnerabilidades",
+    des: "Dashboard interativo para análise e visualização de vulnerabilidades em sistemas, com relatórios detalhados.",
+    img: "/p2.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    link: "https://github.com/jimmyadmsenior",
+  },
 ];
 
 export const companies = [
